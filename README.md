@@ -1,4 +1,3 @@
-#Yapay zekaya karsi Savas Oyunu
 Öncelikle Oyunumuzu oynamak için bilgisayarınızda python yüklenmiş olmalıdır.
 Python.org sitesinden 3.x.x bir sürüm indirebilirsiniz.
 

@@ -10,9 +10,9 @@ Python.org sitesinden 3.x.x bir sürüm indirebilirsiniz.
 
 
 Gerekli modüller:
-time
-random
-keyboard
+time,
+random,
+keyboard,
 +Bunlar nasıl indirilir?
 -Cevabı basit. cmd'ye pip install "ModülAdı" yazarak modülleri tek tek indirebilirsiniz.
 

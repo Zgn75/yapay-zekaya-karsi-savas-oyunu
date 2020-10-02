@@ -1,1 +1,1 @@
-# Yapay-Zekaya-kar-Sava-Oyunu
+Yapay zekaya karsi Savas Oyunu

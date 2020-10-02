@@ -5,7 +5,7 @@
 -Rar dosyasını indirdikten sonra klasörü masaüstüne atmalısınız. Ardından savas.py'ın olduğu klasöre girmelisiniz. Fakat bundan önce bazı modülleri yüklemeniz gerekir.
 
 
-Gerekli modüller: time, random, keyboard
+Gerekli modüller: time, random, keyboard ve colorama
 
 
 +Bunlar nasıl indirilir?
